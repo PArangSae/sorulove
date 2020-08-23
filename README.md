@@ -5,6 +5,8 @@ I'm just cute boy😎😎
 I love Takaki💖💖💞💞
 <br>
 I started coding in 4 years ago.
+<br>
+Pls follow me... 
 
 
 [![Soru_love's profile](https://github-readme-stats.vercel.app/api?username=sorulove&show_icons=true&hide_border=true)](https://github.com/sorulove)
