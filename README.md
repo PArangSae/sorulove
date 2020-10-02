@@ -1,12 +1,15 @@
-### Hi there 👋
+### Hi there 👋🏻👋🏻
 
-I'm just cute boy😎😎
-<br>
-I love Takaki💖💖💞💞
-<br>
-I started coding in 4 years ago.
-<br>
-Pls follow me... 
+반갑습니다.
+팔로우 해 주세요!
+
+웹 개발을 사랑해요🥰🥰💖💖
+<ul>
+<li> HTML</li>
+<li>CSS( Framework Bootsrap,Meterial UI Semantic UI</li>
+<li>JavaScript(Vue.js and ES6)</li>
+<li>SSR(Nuxt.js)</li>
+</ul>
 <br>
 <br>
 My stats
